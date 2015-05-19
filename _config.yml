@@ -1,0 +1,14 @@
+markdown: rdiscount
+permalink: /:title/
+url: laukey.github.io
+highlighter: pygments
+name: laukey
+description: laukey | fighting and doing.
+author: laukey
+email: dodirectthing@gmail.com
+duoshuo: niushuai
+weibo: 1891858481
+hub: laukey
+safe: true
+paginate: 100
+about: "laukey"
