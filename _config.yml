@@ -1,6 +1,7 @@
 markdown: rdiscount
 permalink: /:title/
 url: laukey.github.io
+cname: www.laukey.com
 highlighter: pygments
 name: laukey
 description: laukey | fighting and doing.

@@ -12,7 +12,7 @@ comments: no
 
 ###联系方式
 
-* 网站：[{{ site.name }}]({{ site.url }})
+* 网站：[{{ site.name }}]({{ site.cname }})
 * 邮箱：[{{ site.email }}](mailto:{{ site.email }})
 * GitHub : [http://github.com/{{ site.hub }}](http://github.com/{{ site.hub }})
 
