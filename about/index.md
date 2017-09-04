@@ -1,18 +1,17 @@
 ---
-title: 关于
+title: About
 layout: page
 comments: no
 ---
 
-### 关于博客
+### About Blog
 
-* 一名游戏开发者
-* 热爱游戏和技术
-* 记录技术，分享心得
+* Game Developer
+* Keep fighting and doing
 
-### 联系方式
+### Contents
 
-* QQ：[12477229]
-* 邮箱：[{{ site.email }}](mailto:{{ site.email }})
+* QQ：12477229
+* Mail：[{{ site.email }}](mailto:{{ site.email }})
 * GitHub : [http://github.com/{{ site.hub }}](http://github.com/{{ site.hub }})
 
